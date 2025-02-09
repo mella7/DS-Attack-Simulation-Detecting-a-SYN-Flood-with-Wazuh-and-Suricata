@@ -30,7 +30,12 @@ This project demonstrates an **Intrusion Detection System (IDS)** setup using **
 ## Video Demo:
 Watch the demo video to see the simulation in action and understand how **Wazuh** and **Suricata** work together to detect and respond to the attack.
 
-![Demo Video](Demo_Project_IPS_IDS.mp4)
+## Video Demo:
+![Demo Video](https://drive.google.com/uc?export=view&id=1YXdhdV0utL9DSgjkvrjXH4TTpMiwE4FD)
+
+## Video Demo:
+Watch the demo video: [Watch Demo on Google Drive](https://drive.google.com/file/d/1YXdhdV0utL9DSgjkvrjXH4TTpMiwE4FD/view?usp=sharing)
+
 
 ## [Download Detailed Documentation - IDS-1-Travaux.pdf](IDS-1-Travaux.pdf)
 
