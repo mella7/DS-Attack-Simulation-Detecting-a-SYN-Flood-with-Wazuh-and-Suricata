@@ -3,7 +3,7 @@
 This project demonstrates an **Intrusion Detection System (IDS)** setup using **Wazuh** and **Suricata** to detect a **SYN flood attack**. The attack is simulated using **hping3** on a Kali Linux machine, targeting a victim machine. **Suricata** monitors network traffic while **Wazuh** processes system logs to detect and generate alerts for the attack.
 
 ## Files in this Project:
-- **[Demo Project IPS_IDS.mp4](Demo%20Project%20IPS_IDS.mp4)**: Video demonstrating the IDS attack simulation and detection.
+- **[Demo Project IPS_IDS.mp4](Demo_Project_IPS_IDS.mp4)**: Video demonstrating the IDS attack simulation and detection.
 - **[IDS-1-Travaux.pdf](IDS-1-Travaux.pdf)**: Detailed documentation explaining the setup, configuration, and steps for the IDS attack simulation.
 
 ## Project Setup:
@@ -30,7 +30,7 @@ This project demonstrates an **Intrusion Detection System (IDS)** setup using **
 ## Video Demo:
 Watch the demo video to see the simulation in action and understand how **Wazuh** and **Suricata** work together to detect and respond to the attack.
 
-![Demo Video](Demo%20Project%20IPS_IDS.mp4)
+![Demo Video](Demo_Project_IPS_IDS.mp4)
 
 ## [Download Detailed Documentation - IDS-1-Travaux.pdf](IDS-1-Travaux.pdf)
 
